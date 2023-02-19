@@ -1,0 +1,22 @@
+body {
+    background-color:#d0cece;
+    margin: 20px;
+    
+}
+li {
+    color: red;
+}
+
+.item {
+    color:blue
+}
+
+#meu-titulo {
+    color: green;
+    font-size: 30px;
+    background-color: black;
+    border: 2px solid red;
+    margin: 0px;
+    padding:5px;
+}
+table{}
